@@ -4,18 +4,18 @@
   <img src="https://i.ibb.co/YZ8tLPf/IMG-20240222-WA0139.jpg" />
 </p>
 
-- 👋 Hi, I’m josephxeon
+- 👋 Hi, I’m Silva
 - ❎ I am just a student (Beginner)
-- 👨🏻‍🦱 16 years old
-- 🇮🇳 Currently living in India, Northeast, Mizoram
-- 🌱 Studying Diploma In Computer Science And Engineering, At NIELIT, AIZAWL
+- 👨🏻‍🦱 21 years old
+- 🇰🇪 Currently living in Kenya
+- 🌱 Studying Bachelor of Education Arts, At MASINDE MULIRO UNIVERSITY OF SCIENCE AND TECHNOLOGY, KAKAMEGA, KENYA 
 
 ---
 
-### :unicorn: How To Reach Me :
+### :𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮: How To Reach Me :
 <p align="center">
-<a href="https://youtube.com/@DGXeon"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
-<a href="https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
+<a href="https://tiktok.com/@silva.edits6"><img src="https://img.shields.io/badge/Tiktok-ff0000?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@silva.edits6" /><br>
+<a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v" /><br>
 <a href="https://t.me/xeonbotinc"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/unicorn_xeon13?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
