@@ -1,7 +1,7 @@
 ### :unicorn: About Me :
 
 <p align="center">
-  <img src="https://i.ibb.co/YZ8tLPf/IMG-20240222-WA0139.jpg" />
+  <img src="https://telegra.ph/file/bf328b6925882b2644535.jpg" />
 </p>
 
 - 👋 Hi, I’m Silva
