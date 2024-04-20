@@ -8,7 +8,7 @@
 - ❎ I am just a student (Beginner)
 - 👨🏻‍🦱 21 years old
 - 🇰🇪 Currently living in Kenya
-- 🌱 Studying Bachelor of Education Arts, At MASINDE MULIRO UNIVERSITY OF SCIENCE AND TECHNOLOGY, KAKAMEGA, KENYA 
+- 🌱 Studying Bachelor of Computer Science and software development, At MASINDE MULIRO UNIVERSITY OF SCIENCE AND TECHNOLOGY, KAKAMEGA, KENYA 
 
 ---
 
