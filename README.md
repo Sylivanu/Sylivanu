@@ -1,4 +1,47 @@
+# 🌟 SILVA'S SPARKLING PROFILE 🌟
 
+<p align="center">
+  <img src="https://telegra.ph/file/bf328b6925882b2644535.jpg" width="300" style="border-radius:50%;box-shadow:0 0 20px #9b5de5" />
+</p>
+
+---
+
+## 🦄 ABOUT ME
+
+```diff
++ 👋 Hi there! I'm Silva (a.k.a Digital Unicorn)
++ 🎓 Computer Science & Software Development Student
++ 🏛️ Masinde Muliro University of Science & Technology
++ 🌍 Located in Kakamega, Kenya
++ 🔮 Tech Interests: AI Development • Web Technologies • Mobile Apps
++ 🚀 Currently mastering: Full-stack development & UI/UX design
+```
+
+---
+
+## 🛠️ TECH STACK & SKILLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,react,git,github,vscode&perline=5" />
+</p>
+
+```diff
+# Languages: JavaScript • Python • HTML5/CSS3
+# Frameworks: React • Node.js
+# Tools: Git • VS Code • Figma
+# Learning: MongoDB • Express • TypeScript
+```
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://tiktok.com/@silva.edits6"><img src="https://img.shields.io/badge/TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/xeonbotinc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <br>
+  <a href="https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"><img src="https://img.shields.io/badge/WhatsApp_Group-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.instagram.com/unicorn_xeon13?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:silva.xeon@protonmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
